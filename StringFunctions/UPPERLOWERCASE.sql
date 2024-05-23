@@ -1,0 +1,1 @@
+SELECT UPPER(CONCAT_WS(' ', 'I love', title, '!!!')) FROM books;
